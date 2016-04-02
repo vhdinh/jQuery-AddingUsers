@@ -1,0 +1,34 @@
+table {
+	border: 1px solid black;
+
+}
+
+table thead tr th {
+	padding-right: 50px;
+}
+
+
+form {
+	width: 350px;
+	text-align: right;
+	padding: 5px;
+}
+	form h1 {
+		margin-bottom: 0px;
+		text-align: left;
+	}
+
+	form hr {
+		margin-top: 0px;
+	}
+
+	form input {
+		padding: 5px;
+		margin: 5px 0px;
+		width: 150px;
+	}
+
+	form button {
+		width: 100px;
+		height: 25px;
+	}
